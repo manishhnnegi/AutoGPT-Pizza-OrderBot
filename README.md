@@ -1,1 +1,4 @@
 # AutoGPT-Pizza-OrderBot
+In today’s fast-paced world, technology continues to reshape various industries, and the food industry is no exception. One exciting development is the Large Language Model (LLMs) in Natural Language Processing (NLP) and chatbots based on it, enabling businesses to enhance their customer experience. Leveraging the power of OpenAI’s GPT-3.5 Turbo large language model and the simplicity of Streamlit, I have created an innovative Pizza OrderBot app that streamlines the pizza ordering process, allowing customers to place orders, customize it and complete payments effortlessly. In this blog post, I will explore the capabilities of LLMs and its potential to revolutionize orderbot.
+# you can find the complete Blog post of Pizza- OrderBot in below link.
+https://medium.com/@manishnegi101/food-delivery-orderbot-app-using-openais-llm-gpt-3-5-turbo-and-streamlit-2f1d836fb2e1
